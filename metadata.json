@@ -1,0 +1,6 @@
+{
+  "name": "Keshav Library - Study Space & Member Management",
+  "description": "Modern full-stack study space management platform for Keshav Library featuring session tracking, membership dues, attendance history, seat allocation, and WhatsApp fee reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
